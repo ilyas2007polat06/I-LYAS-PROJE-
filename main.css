@@ -9,7 +9,7 @@ html{
   font-size: 62.5%;
 }
 body{
-  background-color: #3e1fa3;
+  background-color:#78c7c7;
   font-family: 'Inter', sans-serif;
 }
 a{
@@ -100,7 +100,7 @@ a{
 
 .bcard__btn--linkedin{
   background: #5093E2;
-  color: #FFFFFF;
+  color: #0f0e0e;
 }
 
 .bcard__text-wrapper{
@@ -118,7 +118,7 @@ a{
 }
 
 .bcard__text{
-  color: grey;
+  color: rgb(90, 78, 78);
   font-size: 1.08rem;
 }
 /* Footer Styles */
